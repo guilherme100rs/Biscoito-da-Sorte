@@ -4,7 +4,7 @@
 
     As aulas tiveram o objetivo de utilizar DOM no JavaScript para construir uma aplicação que apresenta frases aleatórias. Introduzindo conhecimentos sobre node, eventos e funções callback.
 
-![preview](./.github/preview.png)
+
 
 🔗 [Clique aqui para acessar](https://github.com/guilherme100rs/Biscoito-da-Sorte)
 
